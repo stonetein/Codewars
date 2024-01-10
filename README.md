@@ -1,3 +1,5 @@
+# Profile
+[![CodeWars](https://www.codewars.com/users/St.One/badges/large)](https://www.codewars.com/users/St.One)
 ##  Description
 >>Trained in problem-solving logic, and adept at dissecting, deducing, and trial-and-error, I undertake each challenge to achieve growth. This repository serves as a log detailing my journey of honing problem-solving abilities through Codewars exercises.
 
